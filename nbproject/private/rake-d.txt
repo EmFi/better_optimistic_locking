@@ -1,0 +1,8 @@
+clobber=
+clobber_rdoc=Remove rdoc products
+default=Default: run unit tests.
+doc=
+doc/index.html=
+rdoc=Build the rdoc HTML Files
+rerdoc=Force a rebuild of the RDOC files
+test=Run tests
