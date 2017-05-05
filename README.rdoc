@@ -7,6 +7,8 @@ Optimistic Locking persisting across requests. Named after the <b>HTTP 409
 Conflict</b> status, conflict_warnings determines if a database conflict is
 likely and intercepts potentailly dangerous requests.
 
+This plugin was devceloped for Rails 2.2.1 it is no longer maintained, use at your own risk.
+
 = Installation
 
 From the root of your rails project run the following command:
